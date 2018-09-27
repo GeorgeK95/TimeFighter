@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimeFighter</string>
+    <string name="app_description">Demo project</string>
+    <string name="your_score_s">Score: %s - %s</string>
+    <string name="time_left_s">Time left: %s</string>
+    <string name="action">Action !</string>
+    <string name="game_over_message">Times up! Winner: %s !</string>
+    <string name="exit">Exit</string>
+    <string name="change_color">Change color</string>
+    <string name="credits">Credits</string>
+</resources>

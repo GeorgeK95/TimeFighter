@@ -1,0 +1,4 @@
+#Thu Sep 27 11:59:50 EEST 2018
+base.0=/Users/sgfs/Desktop/books/Android_Apprentice_v1/02-layouts/starter/timefighter/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
